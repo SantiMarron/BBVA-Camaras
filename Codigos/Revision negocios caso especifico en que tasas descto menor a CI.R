@@ -74,8 +74,6 @@ write.xlsx2(as.data.frame(a), "Outputs/Negocios con potencial riesgo TD menor a 
 write.xlsx2(as.data.frame(b), "Outputs/Negocios con potencial riesgo TD menor a CI.xlsx", 
             sheetName = "Debito", row.names = F, append = T)
 
-rm(a,b)
-
 ##### Union con base entregada para ver % de facturacion, credito y debito #####
 
 Fact_cred <- Casos_cred %>% 
