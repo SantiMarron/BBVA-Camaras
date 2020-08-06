@@ -35,6 +35,10 @@ Casos_aplicables <- Comparacion_CI %>%
   filter(Comp_CI_deb2 == "No aplica") %>% 
   select(AFILIACION, `RAZON SOCIAL`, GRUPO, CADENA, GIRO, Cuota_deb2, Ind_cuota, Cuota_deb_CI, CI_deb)
 
+write.xlsx2(as.data.frame(Casos_aplicables), 
+            "Outputs/Negocios atipicos COMPLETOS-TD en pesos (cuota)-CI en tasa.xlsx", 
+            sheetName = "Lista", row.names = F, append = F)
+
 Der_proc <- Der_adquiridos %>% 
   mutate(GRUPO = case_when(str_length(GRUPO) == 1 ~ str_c("00000", GRUPO),
                            str_length(GRUPO) == 2 ~ str_c("0000", GRUPO),
@@ -49,15 +53,18 @@ Der_proc <- Der_adquiridos %>%
 
 Unidas <- Casos_aplicables %>% 
   left_join(Der_proc)
+
   
 Neg_c_derechos <- Unidas %>% 
   filter(!is.na(NOMBRE)) # Si cuadra, aqui estan Toks y Sanborns, los importantes
 
 print(nrow(Neg_c_derechos)/nrow(Casos_aplicables)) # % de registros con derechos adquiridos que se explican
+
+
   
 Resto <- Unidas %>% 
   filter(is.na(NOMBRE)) %>% 
-  select(-NOMBRE, -`Intercambio Créd`, -`Cuota Débito`, -Cuota_deb_CI, -Ind_cuota) # Si cuadra, desde el Input dice que Vips no
+  select(-NOMBRE, -`Intercambio Créd`, -`Cuota Débito`, -Ind_cuota) # Si cuadra, desde el Input dice que Vips no
 
 write.xlsx2(as.data.frame(Resto), "Outputs/Negocios atipicos-TD en pesos (cuota)-CI en tasa.xlsx", 
             sheetName = "Lista", row.names = F, append = F)
@@ -66,8 +73,12 @@ write.xlsx2(as.data.frame(Resto), "Outputs/Negocios atipicos-TD en pesos (cuota)
 
 Fact <- Resto %>% 
   left_join(Entregada) %>% 
-  filter(!is.na(FACT_DEB))
+  filter(!is.na(FACT_DEB)) 
 
 print(sum(Fact$FACT_DEB)/sum(Entregada$FACT_DEB))
 
-  
+Fact_completa <- Casos_aplicables %>% 
+  left_join(Entregada) %>% 
+  filter(!is.na(FACT_DEB))
+
+print(sum(Fact_completa$FACT_DEB)/sum(Entregada$FACT_DEB))

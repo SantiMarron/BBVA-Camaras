@@ -1,4 +1,4 @@
-# BBVA Competencia Camaras (ult. act 1 junio 2020)
+# BBVA Competencia Camaras (ult. act 27 julio 2020)
 # Revision de negocios con tasas de descuento menores a cuotas de intercambio
 
 gc()
@@ -17,13 +17,17 @@ source("Codigos/Comparacion tasas descuento y cuotas intercambio.R")
 
 rm(list=setdiff(ls(), "Comparacion_CI"))
 
-Entregada <- read_excel("Inputs/124_vi_2019_10.xlsx") %>% 
-  rename(AFILIACION = AFILIACION_NUM,
-         Tasa_cred = `TASA CRED`, 
-         Tasa_deb = `TASA DEB`, 
-         Cuota_deb = `CUOT DEB`) %>% 
-  mutate_at(c("Tasa_cred", "Tasa_deb", "Cuota_deb", "FACT_TDC", "FACT_DEB"), as.numeric) %>% 
-  select(AFILIACION, FACT_TDC, FACT_DEB)
+Fact_riesgo <- read_excel("Inputs/Transaccionalidad_comercios_v2.xlsx", 
+                          sheet = "VentasxComercio", skip = 3) %>% 
+  rename(AJE_CRED_TXS = TXNS...5, AJE_CRED_VAL = MONTO...6,
+         PRO_CRED_TXS = TXNS...7, PRO_CRED_VAL = MONTO...8,
+         AJE_DEB_TXS = TXNS...9, AJE_DEB_VAL = MONTO...10,
+         PRO_DEB_TXS = TXNS...11, PRO_DEB_VAL = MONTO...12) %>% 
+  select(AFILIACION, GRUPO, CADENA, `RAZON SOCIAL`, AJE_CRED_VAL, AJE_DEB_VAL) 
+
+Total_liquidacion <- read_excel("Inputs/Total_liquidacion.xlsx", sheet = "Total", skip = 4) %>% 
+  rename(AJE_CRED_TXS_TOT = TXNS...1, AJE_CRED_VAL_TOT = MONTO...2,
+         AJE_DEB_TXS_TOT = TXNS...5, AJE_DEB_VAL_TOT = MONTO...6)
 
 ##### Filtro de TD menor a CI e indicador de igualdad entre ajena y propia #####
 
@@ -74,21 +78,44 @@ write.xlsx2(as.data.frame(a), "Outputs/Negocios con potencial riesgo TD menor a 
 write.xlsx2(as.data.frame(b), "Outputs/Negocios con potencial riesgo TD menor a CI.xlsx", 
             sheetName = "Debito", row.names = F, append = T)
 
-##### Union con base entregada para ver % de facturacion, credito y debito #####
+##### Casos en cred y deb donde TD es cero #####
 
-Fact_cred <- Casos_cred %>% 
-  left_join(Entregada) %>% 
-  filter(!is.na(FACT_TDC)) %>% select(-Ind_cred)
-  
-print(nrow(Fact_cred)/nrow(Casos_cred)) # % que hace match con original para facturacion
-print(sum(Fact_cred$FACT_TDC)/sum(Entregada$FACT_TDC)) # % de la facturacion de los que TD < CI
+percent <- function(x, digits = 2, format = "f", ...) {      # Create user-defined function
+  paste0(formatC(x * 100, format = format, digits = digits, ...), "%")
+}
 
-Fact_deb <- Casos_deb %>% 
-  left_join(Entregada) %>% 
-  filter(!is.na(FACT_TDC)) %>% select(-Ind_deb)
+Cred_cero <- Casos_cred %>% 
+  mutate(Ind = 
+           case_when(Ind_cred == 'Base' & Tasa_cred_base == 0 ~ 1,
+                     Ind_cred == 'Iguales' & Tasa_cred_ajena == 0 ~ 1,
+                     TRUE ~ 0)) %>% 
+  filter(Ind == 1) %>% 
+  left_join(Fact_riesgo) %>% 
+  select(-CI_deb, -Ind_cred, -Ind, -AJE_DEB_VAL)
 
-print(nrow(Fact_deb)/nrow(Casos_deb)) # % que hace match con original para facturacion
-print(sum(Fact_deb$FACT_DEB)/sum(Entregada$FACT_DEB)) # % de la facturacion de los que TD < CI
+print(str_c('La facturacion para negocios en riesgo con TD de cred = 0 representa el: ',
+            percent(sum(Cred_cero$AJE_CRED_VAL, na.rm = T)/Total_liquidacion$AJE_CRED_VAL_TOT),
+            ' del total de facturacion en credito ajena'))
+
+Deb_cero <- Casos_deb %>% 
+  mutate(Ind = 
+           case_when(Ind_deb == 'Cuota' & Cuota_deb2 == 0 ~ 1,
+                     Ind_deb == 'Base' & Tasa_deb_base == 0 ~ 1,
+                     Ind_deb %in% c('Iguales', 'Diferentes') & Tasa_deb_ajena == 0 ~ 1,
+                     TRUE ~ 0)) %>% 
+  filter(Ind == 1) %>% 
+  left_join(Fact_riesgo) %>% 
+  select(-Ind_deb, -Ind, -AJE_CRED_VAL) 
+
+print(str_c('La facturacion para negocios en riesgo con TD de deb = 0 representa el: ',
+            percent(sum(Deb_cero$AJE_DEB_VAL, na.rm = T)/Total_liquidacion$AJE_DEB_VAL_TOT),
+            ' del total de facturacion en debito ajena'))
+
+write.xlsx2(as.data.frame(Cred_cero), "Outputs/Casos en riesgo donde TD es igual a cero.xlsx", 
+            sheetName = "Credito", row.names = F, append = F)
+
+write.xlsx2(as.data.frame(Deb_cero), "Outputs/Casos en riesgo donde TD es igual a cero.xlsx", 
+            sheetName = "Debito", row.names = F, append = T)
 
 ##### Anexo: Filtro de tasas que podrian ser ponderables entre ajena y propia #####
 
@@ -103,3 +130,5 @@ Deb_ponderados <- Casos_deb %>%
 
 rm(Cred_ponderados)
 rm(Deb_ponderados)
+
+
