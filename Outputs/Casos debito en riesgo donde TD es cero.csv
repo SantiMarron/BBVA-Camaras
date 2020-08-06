@@ -1,0 +1,481 @@
+"AFILIACION","RAZON SOCIAL","GIRO","DESC_GIRO","Tasa_deb_base","Tasa_deb_propia","Tasa_deb_ajena","Cuota_deb2","Ind_cuota","Cuota_deb_CI","CI_deb","Comp_CI_deb2","Ind_deb","GRUPO","CADENA","Ind"
+627547,"SANATORIO GUADALAJARA SA",8062,"Hospitales",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+691493,"BOMBAS GAS DEL NORTE SA CV",5065,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+707422,"EL NUEVO MUNDO MONTERREY SA",5311,"Supermercados",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","000240","000001",1
+1001195,"TIEMPO Y ESTILO SA CV",5944,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018401","000001",1
+1002763,"RAMIREZ ESPINOSA MAURICIO",5533,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1011700,"KLOVER CENTRO DULCERO SA CV",5441,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1019443,"BORDIGNON SA CV",5944,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","019318","000001",1
+1038206,"DALTON AUTO SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","000373","000001",1
+1047565,"RODRIGUEZ GOMEZ MARTE",5995,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1201870,"TILE EXPRESS SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005047","000002",1
+1295195,"SERV RIMER  TIANQUIS SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+1597335,"ZURECO DE CHIAPAS SA CV",5532,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","010918","000001",1
+1732817,"GONZALEZ PARRA IGNACIO",5169,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1759398,"ABASTECEDORA DE PROD UCT SA CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1782549,"COMERCIAL AUTOM DEL NTE SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","014033","000001",1
+1884865,"CORPORACION MEDICA SURESTE SC",8062,"Hospitales",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+1984889,"CREACIONES IVI SA CV",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","008355","000001",1
+2033843,"VEHICULOS AUTOMOT LA PAZ SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","020383","000001",1
+2141547,"INFANTILES EL CIRCO SA CV",5641,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005757","000001",1
+2171395,"ENLACE COMUNICACION Y CAPAC AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+2239309,"SURMAN MOTORS SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","002780","000001",1
+2295780,"OLVERA CASTELAN FELIPE SIMON",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+3212776,"GASTROPERADORA OAXAQUENA SACV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","001946","000003",1
+4001900,"COMER FARMARCO SIMILARES SA CV",5912,"Farmacias",0,0,0,0,"T",NA,1,"TD menor a CI","Base","@","@",1
+4021296,"GRUPO WH ALIMENTOS SA CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4021698,"DEMO ELECTRONICS SA CV",5722,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","011622","000001",1
+4034043,"BBVA BANCOMER COBRANZA MINOR",6012,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4044975,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4044976,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4049210,"COMERCIAL VALOR AGREGADO SA CV",5045,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","002942","000001",1
+4051711,"TADRO SA CV",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4069000,"SERV Y SOLU VIAJES NORTE SA CV",4722,"Agencias De Viajes",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+4070497,"FONSECA ORTEGON POLYANA JOSEFI",5441,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4072615,"RIVAS MARQUEZ VICTOR",5732,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4073815,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4075823,"NARCIO FELIX GUILLERMO A",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005359","000001",1
+4075824,"NARCIO FELIX GUILLERMO A",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005359","000001",1
+4076115,"GUERRERO VILLEGAS ARTURO",7216,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4084069,"CORTES MARURIS ERIC",5045,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","017335","000001",1
+4091711,"PUBLIC MEDIOS MEXICALI SA CV",2741,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4095813,"BASTIDA MANDUJANO MARELE MIROS",5046,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4096485,"TRANSMIS CARDANES ESPEC SA CV",5533,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4100034,"LASMON SA CV",5691,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4100071,"GALA DISENO EN MUEBLES SA CV",5712,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","000666","000001",1
+4101905,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4102159,"BECA JORGE GARCIA AB AROA AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4102397,"PREMIUM REST BRANDS SRL CV",5814,"Comida Rápida",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","000218","000001",1
+4103765,"BAJA CASA Y DISENO SA CV",5947,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4103898,"ASES NEGOCIOS FRANQUICI SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4103912,"ASES NEGOCIOS FRANQUICI SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4103915,"ASES NEGOCIOS FRANQUICI SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4103919,"ASES NEGOCIOS FRANQUICI SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4107586,"CALZADO ASIS SA CV",5661,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4108377,"BONILLA SANDOVAL GABRIEL",5977,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4109533,"GARRIDO GARCIA JOSE MIGUEL",5072,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4111186,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4112795,"ACEVEDO CORIA ISRAEL",5111,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4112845,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4114392,"GO DE CONTRIBUCIONES FEDERALE",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4114487,"BBVA BANCOMER OPERACION MULT",4816,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4114811,"HERNANDEZ TORIZ BELEM",5813,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4115120,"MEDINA HURTADO LORENA",1761,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4115856,"SAT CONTRIBUCIONES FED SC",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4116062,"CONTRIBUCIONES FEDERALES SACV",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4116253,"SAT APTO DE TAMPICO",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4118413,"SERVICIO DE ADMON TRIBUTARIA",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4118419,"SERVICIO DE ADMON TRIBUTARIA",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4118599,"MAXIMO CONCEPTO CELU LAR SA CV",4812,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4118796,"SERVICIO DE ADMON TRIBUTARIA",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4118798,"SERVICIO DE ADMON TRIBUTARIA",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4122992,"SERVICIO DE ADMON TRIBUTARIA",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4124112,"BECA JORGE GARCIA ABAROA AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4125202,"OPER DE CIUDAD JUAREZ SA CV",5411,"Grandes Superficies",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","004399","000001",1
+4129594,"DIST HERNAN DEZ FLORES SRL",5422,"Misceláneas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4129746,"GO CONTRIBUCIONES FEDERALE",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4131616,"GO DE CONTRIBUCIONES FEDERALE",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4133268,"FUND SOFFY UNA MANO AMIGO AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4137568,"PAQA SC RL CV",5169,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","046714","000001",1
+4139757,"SEP DIREC GENERAL EDUC TECN",8220,"Colegios y Universidades",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","007805","000002",1
+4140030,"S 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4141396,"COMBUSTIBLES ERMITA SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+4145120,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145121,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145123,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145125,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145128,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145129,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145130,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145135,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145138,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145143,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145144,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145148,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145155,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145156,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145158,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145160,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145161,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145163,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145164,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145168,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145176,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145178,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145179,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145180,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145182,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145183,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145184,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145185,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145186,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145187,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145188,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145191,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145192,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145193,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145194,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145195,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145196,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145197,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145202,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145205,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145206,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145208,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145209,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145210,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145211,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145213,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145214,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145216,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145217,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145221,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145222,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145224,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145226,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145227,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145228,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145229,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145230,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145232,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145233,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145234,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145235,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145236,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145237,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145238,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145257,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145258,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145262,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145265,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145266,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145268,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145270,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145271,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145274,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145277,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145278,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145282,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145285,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145287,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145288,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145290,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145291,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145292,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145293,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145294,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145295,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145296,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145297,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145299,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145300,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145301,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145304,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145305,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145307,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145309,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145312,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145315,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145316,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145317,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145318,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145319,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145321,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145323,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145324,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145325,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145555,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145557,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145558,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145560,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145562,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145564,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145565,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145566,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145567,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145569,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145570,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145572,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145573,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145574,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145575,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145576,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145580,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145581,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145582,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145583,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145584,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145585,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145586,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145588,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145589,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145590,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145591,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145592,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145593,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145596,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145597,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145599,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145600,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145601,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145602,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145604,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4145605,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4147608,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4147610,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4147612,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4147613,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4147614,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4148009,"SECRETARIA DE COMUNIC Y TRANS",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149005,"SEC DE COMUNIC Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149932,"SEC DE COMUNICACIONES Y TRANSP",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149933,"SEC DE COMUNICACIONES Y TRANSP",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149934,"SEC DE COMUNICACIONES Y TRANSP",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149935,"SEC DE COMUNICACIONES Y TRANSP",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4149937,"SEC DE COMUNICACIONES Y TRANSP",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4150283,"SEC COM Y TRANSPORTES",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","003147","000003",1
+4154069,"SO DE CONTRIBUCIONES FEDERALE",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4154070,"GO DE CONTRIBUCIONES FEDERALE",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4162080,"GABRIEL MACIAS FLORES",5912,"Farmacias",0,0,0,0,"T",NA,1,"TD menor a CI","Base","@","@",1
+4162448,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162496,"TAQUEROS ANONIMOS S  DE RL DE CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4162498,"TAQUEROS ANONIMOS S  DE RL DE CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4162500,"TAQUEROS ANONIMOS S  DE RL DE CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4162521,"TAQUEROS ANONIMOS S  DE RL DE CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4162728,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4162782,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162783,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162812,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162831,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162832,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4162833,"PHITEN MEXICO SA DE  CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018901","000001",1
+4163686,"VALORES DEL MEDITERR AN  SA CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4163856,"OPSSIM OPCIONES PROF ESIONALES DE LA SAL",8043,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","043209","000001",1
+4163901,"BRIDAL ATTIRE SA DE  CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4165299,"GERMANCY SA DE CV",5912,"Farmacias",0,0,0,0,"T",NA,1,"TD menor a CI","Base","@","@",1
+4165301,"GERMANCY SA DE CV",5912,"Farmacias",0,0,0,0,"T",NA,1,"TD menor a CI","Base","@","@",1
+4165513,"JARDELEON SA DE CV",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","028456","000001",1
+4168848,"AGENCIA DE VIAJES VML SA CV",4722,"Agencias De Viajes",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+4173061,"GO DE CONTRIBUCIONES FEDERALES R 06 E00",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4173467,"E PROP INDUSTRIAL INSTIT MEX",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4176896,"BIOLOGICOS ESPECIALIZADOS SACV",5122,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4178280,"CLIN DEL AZUCAR SA PI CV",8011,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4178393,"CLIN DEL AZUCAR SAPI CV",8011,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4178428,"CLIN DEL AZUCAR SA PI CV",8011,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4178998,"OPERADORA DE CIUDAD JUAR SA CV",5411,"Grandes Superficies",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","004399","000001",1
+4179880,"R 06 E00 BANCOMER PAGO CONTRI",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4180699,"BBVA BANCOMER SOLUCI ONES PRUEBA",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4186039,"E PROP INDUSTRIAL INSTIT MEX",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4187391,"REHFISEF SC",8041,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4188672,"INST NACIONAL DE MIGRACION",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+4212908,"TILE EXPRESS SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005047","000002",1
+4263802,"CENTRO CULTURAL CCR AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4329934,"LUNA PINEDA YADIRA",5944,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4392627,"CAFE SOCIETY SA CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4451258,"OPERADORA CIUDAD JUAREZ SA CV",5411,"Grandes Superficies",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","004399","000001",1
+4481479,"DISTRIB COMERC MERCAN SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","041282","000001",1
+4560918,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4560934,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4560942,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4560967,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4560991,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561015,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561031,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561056,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561072,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561098,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4561106,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567863,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567871,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567889,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567897,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567913,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567921,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567939,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567947,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567970,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567988,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4567996,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568028,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568044,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568069,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568085,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568119,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568168,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4568200,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581732,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581740,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581765,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581773,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581781,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4581807,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4582979,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4582987,"R 06 E00 BANCOMER PA GO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4592705,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4594248,"BARRERA RAMIREZ DANIEL ANTONIO",5533,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4604955,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4604971,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4606786,"LAB PATOL CLIN VALLARTA SC",8071,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005259","000001",1
+4628194,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628202,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628228,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628236,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628244,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628343,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628392,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628418,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628434,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628467,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628483,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628517,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4628533,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639100,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639142,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639209,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639225,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639258,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639332,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639340,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639373,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4639381,"R 06 E00 BANCOMER PAGO DE CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4649588,"R 06 E00 BANCOMER PAGO CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4649604,"R 06 E00 BANCOMER PAGO CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4649612,"R 06 E00 BANCOMER PAGO CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4649620,"R 06 E00 BANCOMER PAGO CONT",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656724,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656757,"R 06 E00 BANCOMER PAGO CONTR F",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656765,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656773,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656799,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656807,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4656815,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4676946,"GALA ANATOLIA MEXICO SA CV",5137,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+4725719,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725735,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725750,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725768,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725776,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725784,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725792,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725818,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725834,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725842,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725859,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4725867,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4727632,"COMERC ALM GARCIA MEXICO SA CV",5949,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","006248","000002",1
+4767026,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4803912,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4803920,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4803953,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4803979,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4803995,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804035,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804043,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804050,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804076,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804084,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804118,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4804134,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883245,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883252,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883260,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883278,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883310,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883419,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883435,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883468,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883609,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883666,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883674,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4883708,"R 06 E00 BANCOMER PAGO CONTRIB",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+4957072,"AMERICAN COTTON SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","045643","000001",1
+4971594,"LAB CLINICOS DE PUEBLA SA CV",8071,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","004580","000001",1
+4986493,"R 06 E00 BANCOMER PAGO DE CON",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","046947","000001",1
+5190509,"IMAGENOL DIAG VALLARTA SC",8071,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005259","000001",1
+5196233,"BBVA BANCOMER PRUEBAS LACPI",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","047098","000003",1
+5318803,"BBVA BANCOMER INST BCA MGFB",6012,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+5401468,"BBVA BANCOMER PRUEBAS LACPI",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","047098","000003",1
+5404066,"SUPER SAN FRANCISCO ASIS SACV",5411,"Grandes Superficies",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","000023","000001",1
+5549266,"DIAZ LOPEZ MARIA SOLMIRA",5712,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","020191","000001",1
+5558853,"LOEZA RODRIGUEZ EDGARDO",8043,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+5693635,"CASTILLON PEREZ GABRIELA",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+5787486,"CORPORATIVO GAVIOTAS SACV",3364,"Renta de Autos",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","000122","000001",1
+5793658,"INMOBILIARIA SERVER  DE COAHUILASA DE C",1771,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","045268","000001",1
+5832092,"O DE JUAREZ MUNICIPIO DE ACAP",4900,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","041521","000001",1
+5944343,"A REGIO ESCLEROSIS MUABP",5967,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6037295,"ARIA INTEGRAL DE QUINT SA CV",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+6056774,"HASCO NORMALIEN MEX SA CV",8999,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6073902,"LAB PATOLOGIA CLIN VALL SA CV",8071,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005259","000001",1
+6112817,"FRAGOSO RODRIGUEZ KENDY JANETT",4812,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6114987,"ALDEN GERMANIA SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","045547","000001",1
+6197487,"AUTOMEC PERFORMANCE SA CV",5533,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6266787,"UNIV TECN STA CATARINA AC",8220,"Colegios y Universidades",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","047253","000001",1
+6350631,"GUTIERREZ TREVINO MARIO MARTIN",5941,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6406193,"SERVICIO GRUPO TEPEY AC SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+6622740,"HOTEL CLUB DE PLAYA  BAXAR SA PI",5962,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6627491,"JARDIN DE NINOS DEL TEPEYAC SC",8299,"Educación básica",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+6710982,"ABASTECEDORA LUMEN SA CV",5943,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","000195","000002",1
+6742951,"PAQA SC RL CV",5169,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","046714","000001",1
+6801070,"HOTEL BOUTIQUE VISTA DEL MAR SA DE CV",7011,"Hoteles",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+6801120,"ICM MEXICO SA CV",7997,"Entretenimiento",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+6811350,"OPERMUNDO TURISTICA SA CV",4722,"Agencias De Viajes",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+6817282,"CERVANTES ARIAS DAVID",8071,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6820286,"SABOR A MADERA SRL CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6830863,"FUERZA MONUMENTOS SRL CV",5947,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6830897,"FUERZA MONUMENTOS SRL CV",7011,"Hoteles",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+6876460,"CB HACIENDA SC RL CV",7012,"Hoteles",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","004149","000001",1
+6885677,"POMPA JARAMILLO TITO JAVIER",8011,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+6895684,"GRACIA ALVAREZ ALFONSO",8021,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7042293,"FESTO PNEMATIC SA CV",5732,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7052722,"MDO ACEROS Y MAT SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7075442,"CONTROL TEC REPRESEN SA CV",5085,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","018668","000001",1
+7212752,"PET YOU HOSP PARA MASC SA CV",742,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7221109,"ESMA FICE SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","009779","000003",1
+7227111,"MODINSA MEXICO SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","046678","000001",1
+7239206,"MUNICIPIO DE CHAPALA JALISCO",9311,"Gobierno",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+7332778,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7332810,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7332844,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7332851,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7341494,"VICTIMA DE LA MODA SA CV",5621,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","006434","000001",1
+7364417,"BOSQUES TORRES FELICITAS",4722,"Agencias De Viajes",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+7370478,"CABAL DE ACAPULCO SA CV",7011,"Hoteles",0,0,0,0,"T",NA,1.1,"TD menor a CI","Base","@","@",1
+7402279,"MUEBLERIAS AHORRA MAS SA CV",5021,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","017929","000001",1
+7418775,"PLAS Y RESINAS NOROESTE SA CV",5172,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","024745","000001",1
+7452367,"PRECOAS SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7465052,"CICLOEMPRESA DEL MAYAB SA CV",5940,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","021337","000001",1
+7467954,"VAZQUEZ PASCUAL MARTHA TERESA",5411,"Grandes Superficies",0,0,0,0,"T",1.24,1.1,"TD menor a CI","Base","@","@",1
+7500673,"SANCHEZ SOTO LEOPOLDO",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7574809,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7574866,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7574965,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7580962,"AARFS AC",8999,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7583736,"BENJAMIN SABIDO COMPANY SRL CV",4812,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7601808,"AUTOMOVILES VICTORIA SA CV",5511,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","002886","000001",1
+7662864,"OSORIO RAMIREZ MARISA",5046,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7669435,"TELYCOM SA CV",4812,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7681869,"FR EURO LLANTAS SA CV",5532,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","004213","000001",1
+7751176,"OPE ALIANZA EST SERV SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+7806942,"DIAZ DIAS DE LEON ADRIANA",8021,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7817695,"MOREH INHUMACIONES SA CV",7261,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7820523,"PET YOU HOSP PARA MASC SA CV",742,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7821644,"PET YOU HOSP PARA MAS SA CV",742,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7893152,"DENTIX MEXICO HEALTH SC",8021,"Médicos y dentistas",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","047124","000001",1
+7945899,"ARMONEZA COMERC TRADE SRL CV",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+7974916,"BETANCOURT COMPEAN FERNANDA",5021,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+8014813,"INST HNOS UNIDOS AC",8641,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+8018295,"EDUC DESARR CULTU MTERREY SC",8220,"Colegios y Universidades",0,0,0,0,"T",NA,0.75,"TD menor a CI","Base","@","@",1
+8030433,"CASAS CASTDIM SA CV",1520,"Otros",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+8068677,"DIS AUT E IND EGYRA SRL CV",5533,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+8328700,"TILE EXPRESS SA CV",5039,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","005047","000002",1
+8417180,"ENERGETICO TAMAZUNCHALE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+8463788,"CREACIONES IVI SA CV",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","008355","000001",1
+8519662,"HERNANDEZ MAXIMO BELEN ARTUTO",5661,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+8875254,"RADIO REFRIG DE JUAREZ SA CV",5722,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","009405","000002",1
+8960296,"FOTO PROFESIONAL BRASIL SA",5946,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+9110347,"CREACIONES IVI SA CV",5651,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","008355","000001",1
+9487463,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1
+9518523,"CASA SORIANO SA CV",5065,"Ventas al detalle (Retail)",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+9560152,"CTRO METALICO HIDALGO SA CV",5251,"Refacciones y ferreterías",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+9705716,"RESTAURANTES ESCOBEDO SA CV",5812,"Restaurantes",0,0,0,0,"T",NA,1.15,"TD menor a CI","Base","@","@",1
+9740341,"ORSAN DEL NORTE SA CV",5541,"Gasolineras",0,0,0,0,"T",NA,0.45,"TD menor a CI","Base","@","@",1

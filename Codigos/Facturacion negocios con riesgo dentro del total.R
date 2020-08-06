@@ -1,4 +1,4 @@
-# BBVA Competencia Camaras (ult. act 23 julio 2020)
+# BBVA Competencia Camaras (ult. act 27 julio 2020)
 # Facturacion de negocios riesgosos dentro del total
 
 gc()
